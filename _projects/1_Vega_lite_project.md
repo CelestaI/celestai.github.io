@@ -19,11 +19,14 @@ This is a plot from Altair in Python.
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bfro.json" style="width: 100%"></vegachart>
 <vegachart schema-url="{{ site.baseurl }}/assets/json/brush_date_filter.json" style="width: 100%"></vegachart>
 <vegachart schema-url="{{ site.baseurl }}/assets/json/season_filter.json" style="width: 100%"></vegachart>
+vegachart schema-url="{{ site.baseurl }}/assets/json/heatmap_sightings.json" style="width: 100%"></vegachart>
 ```
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bfro.json" style="width: 100%"></vegachart>
 <vegachart schema-url="{{ site.baseurl }}/assets/json/brush_date_filter.json" style="width: 100%"></vegachart>
 <vegachart schema-url="{{ site.baseurl }}/assets/json/season_filter.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/heatmap_sightings.json" style="width: 100%"></vegachart>
+
 
 
 
